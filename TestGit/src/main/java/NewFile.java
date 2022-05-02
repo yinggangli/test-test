@@ -3,6 +3,6 @@ public class NewFile {
         System.out.println("test");
         System.out.println("test");
         System.out.println("test");
-        System.out.println("&&&&&&");
+        System.out.println("%%%%%%");
     }
 }
